@@ -1,6 +1,6 @@
 👋 Hello! I'm BreadDeveloper! 🇬🇧
 
-I am studying BSc Hons Computer Science and am learning to build projects and applications with these languages:
+I am studying BSc Hons Computer Science and am learning to build projects and applications with these languages:  <br/>
   🔹 C++ <br/>
   🔹 C# <br/>
   🔹 Java <br/>
@@ -9,7 +9,7 @@ I am studying BSc Hons Computer Science and am learning to build projects and ap
   🔹 CSS <br/>
   🔹 Python <br/>
   
-Languages/Technologies I'm interested in learning in the future:
+Languages/Technologies I'm interested in learning in the future:  <br/>
   🔹 PHP <br/>
   🔹 Bootstrap <br/>
   🔹 SCSS <br/>
