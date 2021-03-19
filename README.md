@@ -7,13 +7,13 @@ I am studying BSc Hons Computer Science and am learning to build projects and ap
   🔹 JavaScript \
   🔹 HTML \
   🔹 CSS \
-  🔹 Python \
+  🔹 Python
   
 Languages/Technologies I'm interested in learning in the future:  \
   🔹 PHP \
   🔹 Bootstrap \
   🔹 SCSS \
-  🔹 Others... \
+  🔹 Others...
   
 If you somehow made it here... Thanks for reading! 😃
 
