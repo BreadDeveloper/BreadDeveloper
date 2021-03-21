@@ -1,4 +1,4 @@
-👋 Hello! I'm BreadDeveloper! 🇬🇧
+👋 Hello! I'm Robert! 🇬🇧
 
 I am studying BSc Hons Computer Science and am learning to build projects and applications with these languages: \
   🔹 C++ \
@@ -17,4 +17,4 @@ Languages/Technologies I'm interested in learning in the future:  \
   
 If you somehow made it here... Thanks for reading! 😃
 
-*BreadDeveloper* 
+*Robert Hare* 
