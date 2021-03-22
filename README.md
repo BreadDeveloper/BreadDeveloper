@@ -1,6 +1,6 @@
 👋 Hello! I'm Robert! 🇬🇧
 
-I am studying BSc Hons Computer Science and am learning to build projects and applications with these languages: \
+I am studying BSc Hons Computer Science while learning to build projects and applications with these languages: \
   🔹 C++ \
   🔹 C# \
   🔹 Java \
