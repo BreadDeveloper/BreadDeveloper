@@ -7,7 +7,7 @@ I am studying BSc Hons Computer Science while learning to build projects and app
   🔹 JavaScript \
   🔹 HTML \
   🔹 CSS \
-  🔹 SCSS \
+  🔹 SCSS/SASS \
   🔹 Python
   
 Languages/Technologies I'm interested in learning more about in the future:  \
