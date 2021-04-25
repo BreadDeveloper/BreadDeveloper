@@ -14,6 +14,6 @@ Languages/Technologies I'm interested in learning more about in the future:  \
   🔹 Bootstrap \
   🔹 Others...
   
-If you somehow made it here... Thanks for reading! 😃
+If you made it here... Thanks for reading! 😃
 
 *Robert Hare* 
