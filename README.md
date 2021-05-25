@@ -16,5 +16,6 @@ Languages/Technologies I'm interested in learning more about:  \
   🔹 Others...
   
 Thanks for reading! 😃
+Please go to https://robertharedev.github.io/Portfolio/ to get in touch! 🖥️ 👍
 
 *Robert Hare* 
