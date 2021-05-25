@@ -15,7 +15,7 @@ Languages/Technologies I'm interested in learning more about:  \
   🔹 Bootstrap \
   🔹 Others...
   
-Thanks for reading! 😃
-Please go to https://robertharedev.github.io/Portfolio/ to get in touch! 🖥️ 👍
+Thanks for reading! 😃 \
+Please go to https://robertharedev.github.io/Portfolio/ to get in touch! 🖥️ 👍 \
 
 *Robert Hare* 
