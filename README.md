@@ -9,12 +9,12 @@ I am studying BSc Hons Computer Science while learning to build projects and app
   🔹 CSS/SCSS/SASS \
   🔹 Python
   
-Languages/Technologies I'm interested in learning more about in the future:  \
+Languages/Technologies I'm interested in learning more about:  \
   🔹 ASP.NET \
   🔹 PHP \
   🔹 Bootstrap \
   🔹 Others...
   
-If you made it here... Thanks for reading! 😃
+Thanks for reading! 😃
 
 *Robert Hare* 
