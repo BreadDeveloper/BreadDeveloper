@@ -10,6 +10,7 @@ I am studying BSc Hons Computer Science while learning to build projects and app
   🔹 Python
   
 Languages/Technologies I'm interested in learning more about in the future:  \
+  🔹 ASP.NET \
   🔹 PHP \
   🔹 Bootstrap \
   🔹 Others...
