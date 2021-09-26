@@ -13,7 +13,10 @@ Languages/Technologies I'm interested in learning more about:  \
   🔹 ASP.NET \
   🔹 PHP \
   🔹 Bootstrap \
-  🔹 Others...
+  🔹 Tensorflow \
+  🔹 Scikit Learn \
+  🔹 Keras \
+  🔹 And more!
   
 Thanks for reading! 😃 \
 Please go to [my website](https://robertharedev.github.io/Portfolio/) to get in touch! 🖥️ 👍
