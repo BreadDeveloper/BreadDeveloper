@@ -16,7 +16,7 @@ Languages/Technologies I'm interested in learning more about:  \
   🔹 Tensorflow \
   🔹 Scikit Learn \
   🔹 Keras \
-  🔹 More I find out about \
+  🔹 More I find out about
   
 Thanks for reading! 😃 \
 Please go to [my website](https://robertharedev.github.io/Portfolio/) to get in touch! 🖥️ 👍
