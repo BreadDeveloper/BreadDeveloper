@@ -4,10 +4,10 @@ I am studying BSc Hons Computer Science while learning to build projects and app
   🔹 C++ \
   🔹 C# \
   🔹 Java \
+  🔹 Python \
   🔹 JavaScript \
   🔹 HTML \
-  🔹 CSS/SCSS/SASS \
-  🔹 Python
+  🔹 CSS/SCSS/SASS
   
 Languages/Technologies I'm interested in learning more about:  \
   🔹 ASP.NET \
