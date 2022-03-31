@@ -10,12 +10,10 @@ I am studying BSc Hons Computer Science while learning to build projects and app
   🔹 CSS/SCSS/SASS
   
 Languages/Technologies I'm interested in learning more about:  \
+  🔹 Cloud technologies (Azure) \
   🔹 ASP.NET \
   🔹 PHP \
-  🔹 Bootstrap \
-  🔹 Tensorflow \
-  🔹 Scikit Learn \
-  🔹 Keras \
+  🔹 Docker \
   🔹 More I find out about
   
 Thanks for reading! 😃 \
