@@ -5,6 +5,7 @@ I am studying BSc Hons Computer Science while learning to build projects and app
   🔹 C# \
   🔹 Java \
   🔹 Python \
+  🔹 Clojure \
   🔹 JavaScript \
   🔹 HTML \
   🔹 CSS/SCSS/SASS
