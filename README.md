@@ -19,6 +19,6 @@ Languages/Technologies I'm interested in learning more about:  \
   🔹 More I find out about
   
 Thanks for reading! 😃 \
-Visit to [my website](https://robertharedev.github.io/Portfolio/) to get in touch! 🖥️ 👍
+Visit [my website](https://robertharedev.github.io/Portfolio/) to get in touch! 🖥️ 👍
 
 ###### *Robert Hare*
