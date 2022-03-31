@@ -14,7 +14,7 @@ Languages/Technologies I'm interested in learning more about:  \
   🔹 ASP.NET \
   🔹 PHP \
   🔹 Docker \
-  🔹 More I find out about
+  🔹 Many more! Suggesting would be appreciated!
   
 Thanks for reading! 😃 \
 Visit [my website](https://robertharedev.github.io/Portfolio/) to get in touch! 🖥️ 👍
