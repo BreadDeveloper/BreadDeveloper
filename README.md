@@ -8,7 +8,7 @@ I am studying BSc Hons Computer Science while learning to build projects and app
   🔹 Clojure \
   🔹 JavaScript \
   🔹 HTML \
-  🔹 CSS/SCSS/SASS
+  🔹 CSS/SASS
   
 Languages/Technologies I'm interested in learning more about:  \
   🔹 Cloud technologies (Azure) \
