@@ -15,9 +15,12 @@ Languages/Technologies I'm interested in learning more about:  \
   🔹 ASP.NET \
   🔹 PHP \
   🔹 Docker \
-  🔹 Many more! Suggestions would be appreciated!
+  🔹 React \
+  🔹 Vue.js \
+  🔹 SQL \
+  🔹 Many more! Suggestions are appreciated!
   
-Thanks for reading! 😃 \
+Thanks for reading. 😃 \
 Visit [my website](https://robertharedev.github.io/Portfolio/) to get in touch! 🖥️ 👍
 
 ###### *Robert Hare*
