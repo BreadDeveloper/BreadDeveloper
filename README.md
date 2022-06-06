@@ -1,6 +1,6 @@
 👋 Hi! I'm Rob. 🇬🇧
 
-I am studying BSc Hons Computer Science while learning to build projects and applications with these languages: \
+I am studying BSc Hons Computer Science while learning to build projects and applications with these languages/technologies: \
   🔹 C++ \
   🔹 C# \
   🔹 Java \
@@ -8,7 +8,8 @@ I am studying BSc Hons Computer Science while learning to build projects and app
   🔹 Clojure \
   🔹 JavaScript \
   🔹 HTML \
-  🔹 CSS/SASS
+  🔹 CSS/SASS \
+  🔹 Docker
   
 Languages/Technologies I'm interested in learning more about:  \
   🔹 Cloud technologies (Azure) \
