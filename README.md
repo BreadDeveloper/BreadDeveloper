@@ -2,17 +2,14 @@
 
 I am studying BSc Hons Computer Science while learning to build projects and applications with these languages/technologies: \
   🔹 C++ \
-  🔹 C# \
-  🔹 Java \
   🔹 Python \
-  🔹 Clojure \
-  🔹 JavaScript \
   🔹 HTML \
   🔹 CSS/SASS \
+  🔹 JavaScript \
   🔹 Docker
   
 Languages/Technologies I'm interested in learning more about:  \
-  🔹 Cloud technologies (Azure) \
+  🔹 Cloud technologies (Azure/AWS/Vercel) \
   🔹 ASP.NET \
   🔹 PHP \
   🔹 Docker \
