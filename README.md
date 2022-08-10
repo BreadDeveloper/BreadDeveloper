@@ -6,9 +6,11 @@ I am studying BSc Hons Computer Science while learning to build projects and app
   🔹 HTML \
   🔹 CSS/SASS \
   🔹 JavaScript \
-  🔹 Docker
+  🔹 Docker \
+  🔹 React
   
 Languages/Technologies I'm interested in learning more about:  \
+  🔹 All of the above, of course \
   🔹 Cloud technologies (Azure/AWS/Vercel) \
   🔹 ASP.NET \
   🔹 PHP \
