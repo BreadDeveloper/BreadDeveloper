@@ -1,13 +1,15 @@
 👋 Hi! I'm Rob. 🇬🇧
 
-I am studying BSc Hons Computer Science while learning to build projects and applications with these languages/technologies: \
+Languages/technologies: \
   🔹 C++ \
-  🔹 Python \
   🔹 HTML \
   🔹 CSS/SASS \
   🔹 JavaScript \
+  🔹 Python \
   🔹 Docker \
   🔹 React
+  
+![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertharedev&show_icons=true&theme=codeSTACKr)
   
 Languages/Technologies I'm interested in learning more about:  \
   🔹 All of the above, of course \
